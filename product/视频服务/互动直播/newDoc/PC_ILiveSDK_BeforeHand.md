@@ -16,7 +16,7 @@ suixinbo_run.zip为已经编译好的可执行包，解压后，直接双击suix
 * 直播房间列表<br/>
 ![直播列表](https://mc.qcloudimg.com/static/img/170ae5e7bbaf52943c975a8ad79b2fdd/2.png)
 * 直播界面<br/>
-![直播房间](https://mc.qcloudimg.com/static/img/170071f70b13d09af4acd323df351420/3.png)
+![直播房间](https://mc.qcloudimg.com/static/img/aa77c098fe7f2a2885fd817cd2643987/avroom.png)
 
 ## 四 集成iLive SDK到开发者自己的代码工程里
 - iLive SDK在步骤一下载的iLiveSDK文件夹中，将iLiveSDK整个文件夹复制到解决方案文件(.sln文件)所在的目录;
